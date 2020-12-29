@@ -3,7 +3,6 @@
    justify-content:center ;
    height: 250px;
    width: 500px;
-   padding-left: 50px;
    background-color: rgb(109, 13, 13);
    
 }
@@ -22,7 +21,7 @@
 }  
 
 .flexbox-item-2 {
-   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   /* font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; */
 }
 
 .flexbox-item-3 {
@@ -30,6 +29,5 @@
 }
 
 h2{
-   text-align: center;
    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
