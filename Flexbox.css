@@ -2,6 +2,7 @@
    display: flex;
    justify-content:center ;
    height: 250px;
+   background-color: rgb(109, 13, 13);
 }
 
 .flexbox-item {
@@ -9,20 +10,22 @@
    margin: 10px;
    border: 3px solid rgb(0, 0, 0);
    background-color: white;
+   font-size: large;
 }
 
 .flexbox-item-1{
-   min-height: 50px;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }  
 
 .flexbox-item-2 {
-   min-height: 150px;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 .flexbox-item-3 {
-   min-height: 200px;   
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 h2{
    text-align: center;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
